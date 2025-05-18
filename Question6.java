@@ -1,6 +1,6 @@
 package zsgsTask;
 import java.util.Scanner;
-public class Question6 {
+public class AverageWeight {
 
 	public static void main(String[] args) 
 	{
@@ -24,3 +24,7 @@ public class Question6 {
 	}
 
 }
+/*
+6. Write a program that calculates the average weight of 10 people. Use descriptive and meaningful variable names following Java naming conventions. Use proper datatypes for the variables.
+
+*/
