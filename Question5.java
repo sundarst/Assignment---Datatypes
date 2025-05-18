@@ -5,7 +5,7 @@ public class  Enum{
 	public static void main(String[] args) {
 		
 		enum Weekday  {
-			Sunday,Monday,Tuesday,Wendesday,Thursday,Friday,Saturday
+			Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
 			}
 		// enum is key word use to get fixed set of daya
 		Scanner scan = new Scanner(System.in);
