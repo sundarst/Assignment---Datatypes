@@ -1,6 +1,6 @@
 package zsgsTask;
 import java.util.Scanner;
-public class Question5 {
+public class  Enum{
 
 	public static void main(String[] args) {
 		
@@ -27,3 +27,8 @@ public class Question5 {
 		
 
 }
+/*
+5. Write a Java program that gets a number from the user and displays the name of the weekday. Use enum.
+
+
+*/
