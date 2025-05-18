@@ -1,6 +1,6 @@
 package zsgsTask;
 
-public class Question1 {
+public class  HelloWorld{
 
 	public static void main(String[] args)
 	{
