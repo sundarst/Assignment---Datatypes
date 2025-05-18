@@ -1,6 +1,6 @@
 package zsgsTask;
 
-public class Question3 {
+public class MultipleClasses {
 
 	public static void main(String[] args) 
 	{
@@ -23,3 +23,7 @@ public class Question3 {
 	}
 
 }
+/*
+3. Create multiple classes in single file and compile and explore how many .class files are generated
+
+*/
