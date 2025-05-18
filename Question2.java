@@ -1,6 +1,6 @@
 package zsgsTask;
 
-public class Question2 {
+public class TypeConversions{
 
 	public static void main(String[] args) 
 	{
@@ -21,3 +21,8 @@ public class Question2 {
 	}
 
 }
+/*
+2. Write a program to demonstrate compatible type conversions. For eg., float to int, double to float, int to short
+
+
+*/
